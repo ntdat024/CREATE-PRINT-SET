@@ -60,6 +60,7 @@ namespace NDT_RevitAPI
 
                             t.Commit();
                         }
+                        MessageBox.Show("Done!", "Message");
                     }
                     else
                     {
